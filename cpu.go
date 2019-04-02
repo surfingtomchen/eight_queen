@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-func main() {
+func xxxmain() {
 	nCPU := runtime.NumCPU()
 	fmt.Println(nCPU)
 }
